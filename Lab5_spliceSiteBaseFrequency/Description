@@ -1,0 +1,1 @@
+reads genomic seqence from a FASTA file and splice coordinates from a BED file and produces a graphic that displays the relative base frequencies at certain distances from the 5' and 3' splice junctions
