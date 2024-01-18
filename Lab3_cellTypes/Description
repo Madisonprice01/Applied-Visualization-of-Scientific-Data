@@ -1,1 +1,1 @@
-
+parses cell type input data and categorizes entries by giving them a 2-D position corresponding to tSNE-1 and tSNE-2 values
